@@ -1,1 +1,1 @@
-This is Ibai Fernández's first Git project!
+My first Git Project as introduced by The Odin Project.
